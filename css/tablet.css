@@ -12,3 +12,7 @@
 .plans-container--slider {
     justify-content: center;
 }
+.main-currency-table, .main-commission-table {
+    display: inline-block;
+    width: 49%;
+}
