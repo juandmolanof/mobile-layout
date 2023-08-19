@@ -37,7 +37,7 @@ Choose the plan that best suits your needs:
 For more information, feel free to get in touch with us:
 
 - LinkedIn: [Juan Diego Molano](https://www.linkedin.com/in/juandmolanof/)
-- Website: [www.mobile-layout.netlify.app](https://www.batatabit.com](https://mobile-layout.netlify.app/)
+- Website: [www.mobile-layout.netlify.app](https://mobile-layout.netlify.app/)
 
 Join Batatabit and start making informed decisions in the cryptocurrency exchange world!
 
